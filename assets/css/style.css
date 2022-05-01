@@ -1,0 +1,42 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px;
+}
+
+div button {
+    border: 2.5px;
+    background-color: purple;
+    color:white;
+    text-align: center;
+    font-size: x-large;
+   justify-content: space-between;
+   display: flex;
+   padding: 10px 10px 10px 10px;;
+}
+
+nav h3 {
+    margin: 0;
+    font-size: 35px;
+}
+
+#prompt {
+    text-align: center;
+    margin: 10vh 10%;
+}
+
+button {
+    background-color: purple;
+    color: white;
+    padding: 5px;
+    border-radius: 8px;
+    text-align: center;
+}
+.intro {
+    font-size: xx-large;
+    text-align: center;
+}
+.ansButton {
+    align-content: center;
+    padding-left: 10%;
+}
